@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Google Form</string>
+    <string name="Google">Google</string>
     <string name="check_box_tittle"> Keep me logged in</string>
+    <string name="name1">Please,SignIn to continue</string>
+    <string name="Username_name">Username</string>
+    <string name="Password">Password</string>
+    <string name="Sign_in">Sign In</string>
+    <string name="CreateAccount">CreateAccount</string>
 </resources>

@@ -15,8 +15,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        val toolbar=findViewById(R.id.toolbar) as Toolbar?
-        setSupportActionBar(toolbar)
         val checkBox=findViewById<CheckBox>(R.id.checkbox);
         val mybtn=findViewById<Button>(R.id.mybtn);
         val edittext1 = findViewById<EditText>(R.id.text);
